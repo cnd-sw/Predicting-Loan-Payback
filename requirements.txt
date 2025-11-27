@@ -5,3 +5,4 @@ xgboost
 lightgbm
 catboost
 graphviz
+scipy
